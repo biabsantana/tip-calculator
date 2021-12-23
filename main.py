@@ -12,7 +12,7 @@ while loop:
     print('Choose an option')
     choice = int(input('What do you want to do? '))
 
-    if(choice == 1):
+    if choice == 1:
         bill = float(input('What was the total of the bill? '))
         tip = int(input('What percentage tip would you like to give? '))
         peopleAmount = int(input('How many people to slipt the bill? '))
