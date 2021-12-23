@@ -35,5 +35,5 @@ while loop:
         loop = False
         print('Exiting...')
     else:
-        print('This option is not available. Choose 1 or 2 to continue. ')
+        print('This option is not available. Choose one of the options displayed to continue. ')
         input('Press anywhere to continue...')
